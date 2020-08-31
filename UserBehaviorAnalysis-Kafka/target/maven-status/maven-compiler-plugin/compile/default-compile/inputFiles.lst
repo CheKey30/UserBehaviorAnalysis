@@ -1,0 +1,9 @@
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis/src/main/java/Bean/UserBehaviorDecoder.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis/src/main/java/Bean/BeanUtils.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis/src/main/java/StreamingJob.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis/src/main/java/Flink/KafkaMsgSchema.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis/src/main/java/Flink/FlinkConsumer.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis/src/main/java/Kafka/Producer.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis/src/main/java/Kafka/Consumer.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis/src/main/java/Bean/UserBehaviorEncoder.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis/src/main/java/Bean/UserBehavior.java

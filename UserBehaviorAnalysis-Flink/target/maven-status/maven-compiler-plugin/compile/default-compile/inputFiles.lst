@@ -1,0 +1,12 @@
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis-Flink/src/main/java/MySQL/MySQLSink.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis-Flink/src/main/java/FlinkHandlers/WindowResultFunction.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis-Flink/src/main/java/Bean/UserBehaviorDecoder.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis-Flink/src/main/java/FlinkHandlers/KafkaMsgSchema.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis-Flink/src/main/java/FlinkHandlers/TopHotItems.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis-Flink/src/main/java/FlinkHandlers/CountAgg.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis-Flink/src/main/java/Bean/ItemViewCount.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis-Flink/src/main/java/Bean/UserBehavior.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis-Flink/src/main/java/Bean/UserBehaviorEncoder.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis-Flink/src/main/java/ElasticSearch/RestClientFactoryImpl.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis-Flink/src/main/java/Bean/BeanUtils.java
+/Users/shuchen/IdeaProjects/UserBehaviorAnalysis-Flink/src/main/java/StreamingJob.java

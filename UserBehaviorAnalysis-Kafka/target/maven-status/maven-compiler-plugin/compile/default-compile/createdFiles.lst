@@ -1,0 +1,11 @@
+Kafka/Consumer.class
+Kafka/Producer.class
+Flink/FlinkConsumer.class
+Flink/KafkaMsgSchema.class
+Bean/UserBehaviorEncoder.class
+StreamingJob.class
+Bean/UserBehavior.class
+Flink/FlinkConsumer$1.class
+Bean/UserBehaviorDecoder.class
+Bean/BeanUtils.class
+StreamingJob$1.class
